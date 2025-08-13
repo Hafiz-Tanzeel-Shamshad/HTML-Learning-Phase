@@ -1,41 +1,49 @@
-# HTML-Learning-Phase b
+# HTML-Learning-Phase 
 This repository contains structured HTML learning material divided into phases for beginners. Each phase covers essential HTML concepts, starting from the basics of tags and elements, moving to forms, tables, links, images, and finally building small projects. Ideal for anyone who wants to learn HTML progressively and practice hands-on coding.
 
-# My Boilerplate HTML Code
+# HTML Projects by Tanzeel Ahmed
 
-This is a simple **HTML boilerplate** demonstrating basic HTML structure, headings, paragraphs, and text formatting.
+This repository contains two HTML projects demonstrating basic web development skills including HTML structure, lists, images, links, and text formatting.
 
 ---
 
-## Features Demonstrated
+## 1. Portfolio Page
 
-### Basic Structure
-- `<!DOCTYPE html>` declaration  
-- `<html>`, `<head>`, and `<body>` tags  
-- Meta tags for **character set** and **viewport**  
-- `<title>` for the page title  
+A simple **personal portfolio page** showcasing education, skills, hobbies, and contact information.
 
-### Paragraphs
-- Simple paragraphs using `<p>`  
-- Bold text using `<b>`  
-- Nested tags example
+### Features
+- Header with **name, tagline, and photo**
+- Sections for:
+  - **Education**
+    - 10th Class (FBISE) : 82%  
+    - 12th Class : 84%  
+    - Bachelor in Computer Science (BSCS) : 3.9  
+  - **Skills**: HTML, CSS, JavaScript, Node.js, SQL, Java, Python  
+  - **Hobbies**: Reading, Debating  
+- Footer with **contact information**
+  - Email  
+  - LinkedIn link  
+  - GitHub link  
+- Styled with `<hr>` and semantic HTML tags
+- "Made with ♥ by College" footer text
 
-### Headings
-- `<h1>` to `<h6>` demonstrating different heading sizes  
-- Example headings:
-  - Main Headings (`<h1>`)  
-  - Iron Man (`<h2>`)  
-  - Thor (`<h3>`)  
-  - Hulk (`<h4>`)  
-  - Small (`<h5>`)  
-  - Very Small (`<h6>`)  
 
-### Horizontal Rule
-- `<hr />` used to separate sections
 
-### Practice Section
-- Example of superheroes with headings and paragraphs:  
-  - **Iron Man** – Also goes by the name **Tony Stark**  
-  - **Captain America** – Also goes by the name **Steve Rogers**  
-  - **Hulk** – Also goes by the name **Bruce Banner**
+---
+
+## 2. List Practice Page
+
+An HTML page practicing **lists, links, images, and text formatting**.
+
+### Features
+- **Unordered List** (`<ul>`) and **Ordered List** (`<ol>`)  
+- **Anchor tags** linking to external websites  
+- **Images** with `src`, `alt`, `height`, and `width` attributes  
+- Practice section with **list of fruits** and links to fruit images:
+  - Apple  
+  - Orange  
+  - Mango  
+- Text formatting examples:
+  - Bold (`<b>`), Italic (`<i>`), Underline (`<u>`)  
+
 
